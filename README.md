@@ -1,1 +1,2 @@
 # baotapanel-docker
+安全入口默认是08d0f7b6密码是12345678用户名是admin123默认端口是20000这是宝塔面板docker版镜像看边上的pkg
